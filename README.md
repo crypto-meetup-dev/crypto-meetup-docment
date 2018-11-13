@@ -1,2 +1,48 @@
 # crypto-meetup-docment
-crypto-meetup-docment，including requirements &amp;&amp; technical documentation and so on; 
+crypto-meetup-docment，including requirements &amp;&amp; technical documentation and so on;
+
+## 项目开发流程
+
+以下为项目开发完整流程。
+
+
+### 需求阶段
+需求采集 -> 需求可行性分析-> 需求方案设计 -> 技术可行性分析 -> 需求方案优化调整 -> 进入需求池，并规定需求优先级。
+
+注：当前阶段不强制要求详细的MRD文档，达到技术认可的程度即为生效，效率优先。
+
+* 需求提出方：anyone
+  * 任何人均可提出币聚项目需求。
+* 需求接收方：涂鸦，林可
+  * 所有需求由统一汇总。
+  * PM可组织讨论需求可行性。
+* 需求路径
+  * 以任何形式任何途径，直接提给需求接收方。
+  * 需求输出，需要形成文档，归并到 requirements_documentation文件夹中。
+  * 维护需求池，并存在优先级排序。
+
+### 设计阶段
+
+提交设计需求 -> 设计评估 -> 进入待设计TODO List等待设计。
+
+###研发阶段
+
+技术排期 -> 技术研发 -> 技术进行功能自测 -> 提交给测试人员
+
+注：
+* 当前阶段没有专职测试，提交给PM，运营和UX。
+* PM和运营主要做功能验收和测试。
+* UX主要做交互和视觉验收。
+* 包括功能交互及视觉在内的所有问题，可以直接找研发沟通解决，当出现分歧时，PM拥有最终决定权。
+* 比如技术输出稿和视觉稿相差5个像素等问题，PM可以根据是否影响使用给出最终意见，比如暂不修复，上线后修复，修复后上线等
+
+###测试&&上线
+
+测试反馈问题 -> 技术修复 -> 功能验证 -> 上线
+
+注：所有BUG问题，均反馈在Github的issue中，不在此列的bug可以不予修复。
+
+###
+
+## technical documentation
+[技术架构与方案选择](technical documentation/技术架构与方案选择.md)
