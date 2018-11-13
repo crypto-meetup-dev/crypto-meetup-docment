@@ -1,7 +1,7 @@
 # crypto-meetup-docment
 crypto-meetup-docment，including requirements &amp;&amp; technical documentation and so on;
 
-## 项目开发流程
+## 项目开发流程
 
 以下为项目开发完整流程。
 
@@ -13,8 +13,8 @@ crypto-meetup-docment，including requirements &amp;&amp; technical documentatio
 
 * 需求提出方：anyone
   * 任何人均可提出币聚项目需求。
-* 需求接收方：涂鸦，林可
-  * 所有需求由统一汇总。
+* 需求接收方：涂鸦，林可
+  * 所有需求由统一汇总。
   * PM可组织讨论需求可行性。
 * 需求路径
   * 以任何形式任何途径，直接提给需求接收方。
@@ -25,7 +25,7 @@ crypto-meetup-docment，including requirements &amp;&amp; technical documentatio
 
 提交设计需求 -> 设计评估 -> 进入待设计TODO List等待设计。
 
-###研发阶段
+### 研发阶段
 
 技术排期 -> 技术研发 -> 技术进行功能自测 -> 提交给测试人员
 
@@ -36,7 +36,7 @@ crypto-meetup-docment，including requirements &amp;&amp; technical documentatio
 * 包括功能交互及视觉在内的所有问题，可以直接找研发沟通解决，当出现分歧时，PM拥有最终决定权。
 * 比如技术输出稿和视觉稿相差5个像素等问题，PM可以根据是否影响使用给出最终意见，比如暂不修复，上线后修复，修复后上线等
 
-###测试&&上线
+### 测试&&上线
 
 测试反馈问题 -> 技术修复 -> 功能验证 -> 上线
 
