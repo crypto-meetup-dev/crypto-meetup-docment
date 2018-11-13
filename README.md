@@ -50,4 +50,4 @@
 * PM具有最终决定权。
 
 ## 技术文档
-[技术架构与方案选择](../technical documentation/技术架构与方案选择.md)
+[技术架构与方案选择](../technical_documentation/技术架构与方案选择.md)
