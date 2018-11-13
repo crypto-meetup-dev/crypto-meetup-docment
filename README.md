@@ -49,5 +49,5 @@
 * 临时高优需求，包括产品需求和设计需求。需要发起者与相关人员进行讨论。
 * PM具有最终决定权。
 
-## technical documentation
-[技术架构与方案选择](technical documentation/技术架构与方案选择.md)
+## 技术文档
+[技术架构与方案选择](../technical documentation/技术架构与方案选择.md)
