@@ -1,5 +1,3 @@
-# crypto-meetup-docment
-
 ## 项目开发流程
 
 以下为项目开发完整流程。
