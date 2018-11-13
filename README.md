@@ -1,9 +1,14 @@
 ## 相关索引
 [前端项目](https://github.com/crypto-meetup-dev/cryptomeetup-portal)
-[后端项目待建]()
+
+[后端项目待建](./)
+
 [项目合约](https://github.com/crypto-meetup-dev/cryptomeetup-contracts)
+
 [技术文档](./technical_documentation)
+
 [需求文档](./requirements_documentation)
+
 
 ## 项目开发流程
 
