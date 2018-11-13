@@ -1,5 +1,4 @@
 # crypto-meetup-docment
-crypto-meetup-docment，including requirements &amp;&amp; technical documentation and so on;
 
 ## 项目开发流程
 
@@ -7,9 +6,9 @@ crypto-meetup-docment，including requirements &amp;&amp; technical documentatio
 
 
 ### 需求阶段
-需求采集 -> 需求可行性分析-> 需求方案设计 -> 技术可行性分析 -> 需求方案优化调整 -> 进入需求池，并规定需求优先级。
+需求采集 -> 需求可行性分析-> 需求方案设计 -> 技术可行性分析 -> 需求方案优化调整 -> 进入需求池，并规定需求优先级。
 
-注：当前阶段不强制要求详细的MRD文档，达到技术认可的程度即为生效，效率优先。
+注：当前阶段不强制要求详细的MRD文档，达到技术认可的程度即为生效，效率优先。
 
 * 需求提出方：anyone
   * 任何人均可提出币聚项目需求。
