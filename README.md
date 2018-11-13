@@ -1,13 +1,13 @@
 ## 相关索引
-[币聚前端](https://github.com/crypto-meetup-dev/cryptomeetup-portal)
+[币聚前端项目地址](https://github.com/crypto-meetup-dev/cryptomeetup-portal)
 
-[币聚后端待建](./)
+[币聚后端项目地址待建](./)
 
-[币聚合约](https://github.com/crypto-meetup-dev/cryptomeetup-contracts)
+[币聚合约项目地址](https://github.com/crypto-meetup-dev/cryptomeetup-contracts)
 
-[技术文档](./technical_documentation)
+[币聚技术文档](./technical_documentation)
 
-[需求文档](./requirements_documentation)
+[币聚需求文档](./requirements_documentation)
 
 
 ## 项目开发流程
