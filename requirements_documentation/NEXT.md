@@ -28,6 +28,7 @@
 * **定位**：做一个聚合类的LBS平台，建立基于CMU的LBS生态系统，完成线上和线下的活动对接。
 * **竞品**：https://www.infiniverse.net/landmap
 * ![标记点类型](../image/地标签到打卡/infiniverse_01.png)
+* ![标记点类型](../image/地标签到打卡/infiniverse_02.png)
 
 ## 新用户模块
 * **P1-用户个人地标管理**--用户登录后可以查看个人地标的list，并且可以统一对个人地标进行管理
